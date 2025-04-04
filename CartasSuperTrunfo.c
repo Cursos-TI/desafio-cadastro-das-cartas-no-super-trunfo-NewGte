@@ -55,9 +55,6 @@ int main() {
     printf("Agora vamos adicionar as caracteristicas da carta 2. \n");
 
 
-
-
-
     printf("Escolha uma letra de A a H para ser a letra inicial do seu estado: \n");
     scanf("%s", &Estado2);
      
